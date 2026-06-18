@@ -1,0 +1,15 @@
+= HUX Vision
+
+HUX is a modern UI framework designed for performance and simplicity.
+
+== Goal
+
+* Minimal core-first architecture
+* Scalable UI system
+* High-performance rendering model (future)
+
+== Principle
+
+* start minimal
+* avoid premature abstraction
+* evolve from real use cases

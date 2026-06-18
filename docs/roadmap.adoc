@@ -1,0 +1,16 @@
+= HUX Roadmap
+
+== Phase 1
+
+* Monorepo setup
+* Core API foundation
+
+== Phase 2
+
+* Reactivity system
+* Rendering experiments
+
+== Phase 3
+
+* UI components
+* Package expansion (runtime, ui, compiler)

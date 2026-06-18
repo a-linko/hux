@@ -1,0 +1,6 @@
+{
+  "name": "hux",
+  "workspaces": [
+    "packages/*"
+  ]
+}

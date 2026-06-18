@@ -1,0 +1,13 @@
+= HUX Architecture
+
+== Current State
+
+Only the core package exists.
+
+== Planned Layers
+
+* Core API
+* Reactivity system
+* Runtime engine
+* UI components
+* Compiler (optional DSL)
